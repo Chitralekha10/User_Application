@@ -1,20 +1,27 @@
 # User_Application. 
 This project is build using java, jdbc,Servlet and JSP as backend and HTML,CSS and Bootstrap as frontend. According to the requirements given, I have performed CRUD operations on Usewr table.
 
+
 SYSTEM REQUIREMENTS
+
+
 1.Eclipse Enterprice Edition
 
 2.Apache Tomcat Server
 
 3.Mysql Server
 
+
 STEPS TO CREATE DATABASE
+
 
 1.Open pentagon.sookshmas1
 
 2.Execute the queries in your mysql.
 
+
 STEPS TO IMPORT PROJECT INTO ECLIPSE
+
 
 1.Import the INI8Labs_Assessment directory into the eclipse workspace.
 
